@@ -6,18 +6,19 @@
 #         self.right = right
 class Solution:
     def findDepth(self, root: Optional[TreeNode], depth) -> int:
-        if root.left == None and root.right == None:
-            return depth
+        queue = deque()
+        while(True):
 
-        elif root.left != None:
-            left_depth = self.findDepth(root.left,depth+1)
-            if root.right != None:
-                right_depth = self.findDepth(root.right,depth+1)
-                if left_depth > right_depth:
-                    return right_depth
-            return left_depth
-        else:
-            depth = self.findDepth(root.right,depth+1)
+            if root.left == None and root.right == None:
+                return depth
+
+            else: 
+                if root.left != None:
+                    queue.append((root.left, depth + 1))
+                if root.right != None:
+                    queue.append((root.right, depth +1))
+            
+            root, depth = queue.popleft()
 
         return depth 
 
