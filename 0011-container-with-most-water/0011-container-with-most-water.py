@@ -13,9 +13,7 @@ class Solution:
 
             if height_right < height_left:
                 right -=1
-            elif height_right > height_left:
-                left +=1
             else:
-                right -=1
+                left +=1
 
         return heighest
