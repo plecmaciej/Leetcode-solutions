@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
 | ------- |
