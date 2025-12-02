@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0461-hamming-distance](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0461-hamming-distance) |
 ## Simulation
 |  |
 | ------- |
