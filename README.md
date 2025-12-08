@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0476-number-complement) |
 ## Simulation
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
