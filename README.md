@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0476-number-complement) |
+| [3827-count-monobit-integers](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3827-count-monobit-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -298,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Enumeration
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
