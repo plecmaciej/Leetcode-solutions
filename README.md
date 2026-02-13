@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [3813-vowel-consonant-score](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3813-vowel-consonant-score) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0258-add-digits) |
+| [3813-vowel-consonant-score](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3813-vowel-consonant-score) |
 ## Dynamic Programming
 |  |
 | ------- |
