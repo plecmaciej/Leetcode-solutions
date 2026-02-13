@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [3803-count-residue-prefixes](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3803-count-residue-prefixes) |
 | [3813-vowel-consonant-score](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3813-vowel-consonant-score) |
 ## Math
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [3803-count-residue-prefixes](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3803-count-residue-prefixes) |
 ## Recursion
 |  |
 | ------- |
