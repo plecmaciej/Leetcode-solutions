@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [3794-reverse-string-prefix](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3803-count-residue-prefixes) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [3813-vowel-consonant-score](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3813-vowel-consonant-score) |
 ## Dynamic Programming
 |  |
