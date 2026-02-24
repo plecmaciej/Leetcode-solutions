@@ -21,6 +21,4 @@ class Solution:
                         b = num
             elif num < c:
                 c = num
-            print(a,b,c)
-        
         return a+b-c
