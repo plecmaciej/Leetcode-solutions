@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Binary Search
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [3745-maximize-expression-of-three-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Stack
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0179-largest-number) |
+| [3745-maximize-expression-of-three-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
@@ -320,5 +323,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
