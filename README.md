@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3803-count-residue-prefixes](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3803-count-residue-prefixes) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Design
 |  |
 | ------- |
