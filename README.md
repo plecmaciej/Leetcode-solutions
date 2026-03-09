@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [3697-compute-decimal-representation](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [3731-find-missing-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [3745-maximize-expression-of-three-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
