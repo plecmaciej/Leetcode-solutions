@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0476-number-complement) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3827-count-monobit-integers](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3827-count-monobit-integers) |
 ## Simulation
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3813-vowel-consonant-score) |
 ## Dynamic Programming
