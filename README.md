@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0504-base-7](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0504-base-7) |
 | [3692-majority-frequency-characters](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3692-majority-frequency-characters) |
 | [3707-equal-score-substrings](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3707-equal-score-substrings) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0504-base-7) |
 | [3697-compute-decimal-representation](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
