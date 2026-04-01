@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0476-number-complement) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3827-count-monobit-integers](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3827-count-monobit-integers) |
@@ -368,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3745-maximize-expression-of-three-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3827-count-monobit-integers) |
+## Brainteaser
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
