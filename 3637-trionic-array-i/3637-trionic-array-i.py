@@ -1,0 +1,25 @@
+class Solution:
+    def isTrionic(self, nums: List[int]) -> bool:
+        n = len(nums)
+        i = 1
+
+        while i < n and nums[i] > nums[i - 1]:
+            i += 1
+
+        if i == 1 or i == n:
+            return False
+
+        while i < n and nums[i] < nums[i - 1]:
+            i += 1
+
+        if i == n:
+            return False
+        start_last = i
+
+        while i < n and nums[i] > nums[i - 1]:
+            i += 1
+
+        if start_last == i:
+            return False
+
+        return i == n
