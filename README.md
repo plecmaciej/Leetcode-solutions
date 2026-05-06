@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0704-binary-search) |
+| [3643-flip-square-submatrix-vertically](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3663-find-the-least-frequent-digit](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
@@ -388,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
+## Matrix
+|  |
+| ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
