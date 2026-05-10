@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0704-binary-search) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3663-find-the-least-frequent-digit](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0704-binary-search) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
