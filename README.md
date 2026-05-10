@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0504-base-7) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3697-compute-decimal-representation) |
