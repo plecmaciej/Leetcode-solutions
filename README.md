@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3606-coupon-code-validator](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3692-majority-frequency-characters](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3692-majority-frequency-characters) |
 | [3707-equal-score-substrings](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3707-equal-score-substrings) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0504-base-7) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
