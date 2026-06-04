@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0704-binary-search) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3637-trionic-array-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0504-base-7) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3663-find-the-least-frequent-digit](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3692-majority-frequency-characters](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0258-add-digits) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Interactive
 |  |
