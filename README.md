@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [3582-generate-tag-for-video-caption](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3582-generate-tag-for-video-caption) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3606-coupon-code-validator](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3692-majority-frequency-characters](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3692-majority-frequency-characters) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [3582-generate-tag-for-video-caption](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3582-generate-tag-for-video-caption) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3813-vowel-consonant-score) |
