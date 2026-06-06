@@ -1,28 +1,15 @@
 class Solution:
     def generateTag(self, caption: str) -> str:
-        output = []
-        output.append('#')
+        words = caption.split()
 
-        length = len(caption)
-        i = 0
+        if not words:
+            return "#"
 
-        while i < length:
-            if caption[i].isalpha():
-                output.append(caption[i].lower())
-                i+=1
+        result = "#" + words[0].lower()
+
+        for word in words[1:]:
+            result += word.capitalize()
+            if len(result) > 100:
                 break
-            i+=1
 
-        while i < length and len(output) <= 99:
-            if caption[i] == ' ':
-                if (i + 1) < length:
-                    if caption[i+1].isalpha():
-                        output.append(caption[i+1].upper())
-                        i += 1
-            else: 
-                output.append(caption[i].lower())
-            i += 1
-        
-        
-        output = "".join(output)
-        return output
+        return result[0:100]
