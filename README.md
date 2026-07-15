@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0704-binary-search) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3606-coupon-code-validator](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3606-coupon-code-validator) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0504-base-7) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
