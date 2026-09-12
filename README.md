@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0504-base-7) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3516-find-closest-person) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3582-generate-tag-for-video-caption) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/plecmaciej/Leetcode-solutions/tree/master/0258-add-digits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Interactive
@@ -448,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/plecmaciej/Leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
