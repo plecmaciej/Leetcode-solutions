@@ -3,22 +3,30 @@ class Solution:
         length = len(nums)
         score = 0
         for i in range(k):
-            if i+k < length:
-                if nums[i] > nums[i+k]:
-                    score+= nums[i]
-                    #print(nums[i])
-            else:
-                score += nums[i]
-                #print(nums[i])
-        
-        for i in range(k, length):
-            if nums[i] > nums[i-k]:
-                if i+k < length:
-                    if nums[i] > nums[i+k]:
-                        score+= nums[i]
-                        #print(nums[i])
+            bigger_then_prev = True
+            prev_value = nums[i]
+            #print("prev",prev_value)
+            for j in range(i+k,length,k):
+                current_value = nums[j]
+                #print("curr",current_value)
+                if bigger_then_prev:
+                    #print("is bigger !!!")
+                    if prev_value > current_value:
+                        score += prev_value
+                        bigger_then_prev = False
+                        #print("is bigger and happy!!!")
+                    elif prev_value == current_value:
+                        bigger_then_prev = False
+                elif prev_value >= current_value:
+                    bigger_then_prev = False
                 else:
-                    score += nums[i]
-                    #print(nums[i])
+                    bigger_then_prev = True
+                
+                prev_value = current_value
+
+            if bigger_then_prev: 
+                score += prev_value
+                #print("is bigger and happy lst!!!")
+
 
         return score 
